@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+seaborn
+jupyter
+networkx
+dgl
+torch
+tqdm
+sortedcontainers
+shapely
+scikit-learn
